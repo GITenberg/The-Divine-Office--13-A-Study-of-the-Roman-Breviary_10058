@@ -1,0 +1,24 @@
+_repo: The-Divine-Office--13-A-Study-of-the-Roman-Breviary_10058
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Quigley, Edward J.
+    gutenberg_agent_id: '3284'
+    url: http://www.gutenberg.org/2009/agents/3284
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10058'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Divine office'
+- !lcsh 'Catholic Church. Breviary'
+- GITenberg
+title: "The Divine Office\r\nA Study of the Roman Breviary"
+url: http://www.gutenberg.org/ebooks/10058
